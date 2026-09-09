@@ -1,4 +1,4 @@
-<?php
+<?<?php
 include 'db.php';
 ?>
 <!DOCTYPE html>
@@ -6,16 +6,18 @@ include 'db.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sports Prediction Platform</title>
+    <title>Sports & Cyber Prediction</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        Live Sports & E-Sports Prediction
+        Live Sports & Cyber Gaming Platform
     </header>
     <div class="container">
-        <h2>স্বাগতম! আমাদের প্ল্যাটফর্মে লাইভ ম্যাচ প্রেডিশন এবং ম্যানুয়াল পেমেন্ট সিস্টেম শিগগিরই আসছে।</h2>
-        <p>এখানে রিয়েল-টাইম ফুটবল ও ক্রিকেট ম্যাচের আপডেট পাওয়া যাবে।</p>
+        <h2>স্বাগতম! আমাদের প্ল্যাটফর্মে সাইবার গেম এবং পেমেন্ট সিস্টেম চালু হয়েছে।</h2>
+        <p>লাইভ সাইবার ম্যাচ ও ডিপোজিট অপশন দেখতে নিচের লিঙ্কে ক্লিক করুন:</p>
+        <br>
+        <a href="matches.php" style="background: #38bdf8; color: #0f172a; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 5px;">সাইবার ম্যাচ ও পেমেন্ট পেজে যান</a>
     </div>
 </body>
 </html>
